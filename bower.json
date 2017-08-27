@@ -1,0 +1,27 @@
+{
+  "name": "reveal.js-sample",
+  "version": "0.0.1",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "https://github.com/radiocat/reveal.js-sample",
+  "license": "MIT",
+  "description": "Reveal.jsを使ったプレゼンのサンプル",
+  "authors": [
+    "radiocat"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/radiocat/reveal.js-sample.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
